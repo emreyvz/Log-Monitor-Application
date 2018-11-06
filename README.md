@@ -1,6 +1,6 @@
 # Log Monitor Uygulaması
 
-<img src='https://i.hizliresim.com/yqyZAL.png' width: 300 />
+![img](https://i.hizliresim.com/yqyZAL.png)
 
 
 ### Logların monitör edildiği basit Client-Server uygulaması.
