@@ -1,12 +1,13 @@
 # Log Monitor Uygulaması
 
-![alt text](https://i.hizliresim.com/yqyZAL.png)
+![alt text]()
+![Alt text](https://i.hizliresim.com/yqyZAL.png)
 
-###Logların monitör edildiği basit Client-Server uygulaması.
+### Logların monitör edildiği basit Client-Server uygulaması.
 
 
 
-#####Backend:
+##### Backend:
 
   - Log eklenebilen ve listelenebilen ASPNET Core Web Servisi
   
@@ -17,11 +18,11 @@
 
 
 
-#####Frontend:
+##### Frontend:
 
   - Arayüz: Angular2 , Bootstrap
 
 
 
 
-###Emre YAVUZ & Adem ÖZER
+### Emre YAVUZ & Adem ÖZER
