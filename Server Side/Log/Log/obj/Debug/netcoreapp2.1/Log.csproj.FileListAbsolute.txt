@@ -1,0 +1,14 @@
+C:\Users\Emre Yavuz\source\repos\Log\Log\bin\Debug\netcoreapp2.1\Log.deps.json
+C:\Users\Emre Yavuz\source\repos\Log\Log\bin\Debug\netcoreapp2.1\Log.runtimeconfig.json
+C:\Users\Emre Yavuz\source\repos\Log\Log\bin\Debug\netcoreapp2.1\Log.runtimeconfig.dev.json
+C:\Users\Emre Yavuz\source\repos\Log\Log\bin\Debug\netcoreapp2.1\Log.dll
+C:\Users\Emre Yavuz\source\repos\Log\Log\obj\Debug\netcoreapp2.1\Log.csprojAssemblyReference.cache
+C:\Users\Emre Yavuz\source\repos\Log\Log\obj\Debug\netcoreapp2.1\Log.csproj.CoreCompileInputs.cache
+C:\Users\Emre Yavuz\source\repos\Log\Log\obj\Debug\netcoreapp2.1\Log.RazorAssemblyInfo.cache
+C:\Users\Emre Yavuz\source\repos\Log\Log\obj\Debug\netcoreapp2.1\Log.RazorAssemblyInfo.cs
+C:\Users\Emre Yavuz\source\repos\Log\Log\obj\Debug\netcoreapp2.1\Log.AssemblyInfoInputs.cache
+C:\Users\Emre Yavuz\source\repos\Log\Log\obj\Debug\netcoreapp2.1\Log.AssemblyInfo.cs
+C:\Users\Emre Yavuz\source\repos\Log\Log\obj\Debug\netcoreapp2.1\Log.RazorTargetAssemblyInfo.cache
+C:\Users\Emre Yavuz\source\repos\Log\Log\bin\Debug\netcoreapp2.1\Log.pdb
+C:\Users\Emre Yavuz\source\repos\Log\Log\obj\Debug\netcoreapp2.1\Log.dll
+C:\Users\Emre Yavuz\source\repos\Log\Log\obj\Debug\netcoreapp2.1\Log.pdb
