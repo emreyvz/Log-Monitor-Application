@@ -1,0 +1,64 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<font color="#7788AA" face="yazi_tipi"><h1 style="text-align:center;">Log Monitör Ekranı</h1></font>
+<p></p><p></p><p></p><p>&nbsp;</p>
+
+<!--
+<div id="basarisiz" class="alert alert-danger " role="alert" style="width:50%;z-index:9999;left:25%;position:fixed;top:30px;display:none;">
+  İşlem Gerçekleştirilemedi.
+</div>
+-->
+
+<div class="row justify-content-md-center">
+   <div class="col col-lg-1"> </div>
+   <div style="background-color:#152B55;" class="jumbotron col col-lg-4 border border-dark shadow-lg">
+   <u><font color="#7788AA" face="yazi_tipi"><h2 style="text-align:left;">Log Girişi</h2></font></u>
+   <p></p>
+   <input type="text" #_log_icerigi class="form-control"  (input)="log_icerigi = _log_icerigi.value" placeholder="Mesaj">
+   <p></p>
+  <select #_type placeholder="Log Tipi" (input)="logtype = _type.value" class="form-control">
+   <option>Log Tipi</option>
+  <option value="exception">exception</option>
+  <option value="trace">trace</option>
+  <option value="info">info</option>
+  </select>
+  <p></p>
+  <button (click)="log_gonder()" type="button" class="btn btn-primary">Gönder</button>
+	
+   </div>
+   <div class="col col-lg-1"> </div>
+  
+    <div class="col col-lg-1"> </div>
+   <div style="background-color:#152B55;" class="jumbotron col col-lg-4 border border-dark shadow-lg">
+   
+   <u><font color="#7788AA" face="yazi_tipi"><h2 style="text-align:center;">Log Listesi</h2></font></u>
+
+   
+<table class="table text-white-50">
+  <thead>
+    <tr>
+      <th class="text-primary" scope="col">ID</th>
+      <th class="text-primary" scope="col">Log Tipi</th>
+      <th class="text-primary" scope="col">Log İçeriği</th>
+      <th class="text-primary" scope="col">Tarih</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item_log of loglar">
+      <th scope="row">{{item_log.id}}</th>
+      <td>{{item_log.log_type}}</td>
+      <td>{{item_log.message}}</td>
+      <td>{{item_log.create_Date}}</td>
+    </tr>
+  </tbody>
+</table>
+   
+   
+   </div>
+   <div class="col col-lg-1"> </div>
+
+</div>
+
+
+
+
+<router-outlet></router-outlet>
