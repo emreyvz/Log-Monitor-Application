@@ -20,6 +20,6 @@ Frontend:
   - Arayüz: Angular2 , Bootstrap
 
 
+'
 
-
--Emre YAVUZ & Adem ÖZER
+- Emre YAVUZ & Adem ÖZER
