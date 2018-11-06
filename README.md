@@ -6,18 +6,18 @@ Logların monitör edildiği basit Client-Server uygulaması.
 
 Backend:
 
-  -Log eklenebilen ve listelenebilen ASPNET Core Web Servisi
+  - Log eklenebilen ve listelenebilen ASPNET Core Web Servisi
   
-  -Persistancy Sağlayısı: Sql Server
+  - Persistancy Sağlayısı: Sql Server
   
-  -ORM Tool: EntityFrameworkCore
+  - ORM Tool: EntityFrameworkCore
   
 
 
 
 Frontend:
 
-  -Arayüz: Angular2 , Bootstrap
+  - Arayüz: Angular2 , Bootstrap
 
 
 Emre YAVUZ & Adem ÖZER
