@@ -3,6 +3,7 @@
 Logların monitör edildiği basit Client-Server uygulaması.
 
 
+
 Backend:
 
   Log eklenebilen ve listelenebilen ASPNET Core Web Servisi
@@ -13,6 +14,10 @@ Backend:
   
 
 
+
 Frontend:
 
   Arayüz: Angular2 , Bootstrap
+
+
+Emre YAVUZ & Adem ÖZER
