@@ -11,7 +11,7 @@
 
   - Log eklenebilen ve listelenebilen ASPNET Core Web Servisi
   
-  - Persistancy Sağlayısı: Sql Server
+  - Persistency Sağlayısı: Sql Server
   
   - ORM Tool: EntityFrameworkCore
   
