@@ -1,17 +1,17 @@
-# Log Monitor Uygulaması
+# Log Monitor Application
 
 ![img](resim.png)
 
 
-### Logların monitör edildiği basit Client-Server uygulaması.
+### Simple client-server application that provides monitorize logs
 
 
 
 ##### Backend:
 
-  - Log eklenebilen ve listelenebilen ASPNET Core Web Servisi
+  - ASPNET Core Web Service that provides listing and adding logs
   
-  - Persistency Sağlayısı: Sql Server
+  - Persistency Provider: Sql Server
   
   - ORM Tool: EntityFrameworkCore
   
@@ -20,7 +20,7 @@
 
 ##### Frontend:
 
-  - Arayüz: Angular2 , Bootstrap
+  - Front-end: Angular2 , Bootstrap
 
 
 
