@@ -11,7 +11,7 @@
 
   - ASPNET Core Web Service that provides listing and adding logs
   
-  - Persistency Provider: Sql Server
+  - Persistency Provider: SQL Server
   
   - ORM Tool: EntityFrameworkCore
   
